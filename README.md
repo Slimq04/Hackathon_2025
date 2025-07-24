@@ -1,5 +1,6 @@
 # Hackathon_2025
 🏠Site: https://pbhackathon.retool.com/apps/c23572bc-627f-11f0-b44f-871b5bce1522/Team%202/GymPulseAI/homePage
+
 GymPulse Analytics with AI is a project that leverages Snowflake's Cortex Large Language Models (LLMs) to analyze customer reviews of a gym. It uses AI-driven sentiment analysis to classify reviews as positive, negative, or neutral, extracts relevant tags (e.g., "coach," "treadmill"), assesses the urgency of issues (immediate, can hold, or no action), and categorizes negative reviews as highly or slightly negative. By processing review data within Snowflake's secure environment, the project provides actionable insights to improve gym operations and customer satisfaction.
 
 ## Files in this Repository
